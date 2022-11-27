@@ -138,7 +138,7 @@
             android:backgroundTint="@color/back_2"
             android:fontFamily="@font/abeezee"
             android:gravity="center"
-            android:text="Another Information"
+            android:text="@string/another_information"
             android:textColor="@color/back_3"
             android:textSize="20sp"
             android:textStyle="bold" />
